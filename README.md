@@ -2,7 +2,7 @@
 Here is the data analysis of a csv file.
 
 # Libraries used:
-Numpy
-Pandas
-Matplotlib
-Seaborn
+->Numpy
+->Pandas
+->Matplotlib
+->Seaborn
