@@ -1,5 +1,5 @@
 # Data-analysis
-Here is the data analysis of a csv file.
+This contains the method to retrive the data from a Database and CSV file and their analysis. 
 
 # Libraries used:
 ->Numpy
