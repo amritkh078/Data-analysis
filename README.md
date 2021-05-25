@@ -6,3 +6,4 @@ Here is the data analysis of a csv file.
 ->Pandas
 ->Matplotlib
 ->Seaborn
+->sqlite3
